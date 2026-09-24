@@ -1,4 +1,4 @@
 # first-class
 This is my first class task 
 <br>
-Author - Din Muhammad 
+Author - Din Muhammad (for first weak)
